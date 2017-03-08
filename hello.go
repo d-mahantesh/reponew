@@ -1,4 +1,4 @@
-package main
+package gitdemo
 
 func Printhe() string{
 	a := "hellworld"
