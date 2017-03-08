@@ -1,4 +1,4 @@
-package gitdemo
+package main
 
 
 func printhe() string{
