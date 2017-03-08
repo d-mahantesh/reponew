@@ -1,7 +1,11 @@
 package main
 
+import "fmt"
 
-func printhe() string{
+func main()  {
+	fmt.Print(Printhe())
+}
+func Printhe() string{
 	a := "hellworld"
 	return a
 }
