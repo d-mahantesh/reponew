@@ -6,5 +6,7 @@ public class hello{
 		b = 5;
 		int sum = a + b;
 		System.out.print(sum);
+		int mul = a*b;
+		Systmem.out.print(mul);	
 	}
 }
