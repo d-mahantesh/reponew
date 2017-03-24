@@ -5,8 +5,10 @@ public class hello{
 		a = 10;
 		b = 5;
 		int sum = a + b;
-		System.out.print(sum);
+		System.out.print("Sum: " + sum);
 		int mul = a*b;
-		System.out.print("\n" + mul);	
+		System.out.print("\nMultiplication: " + mul);	
+		int modulo = a/b;
+		System.out.print("\nDivision: " + modulo);
 	}
 }
