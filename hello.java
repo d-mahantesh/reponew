@@ -11,6 +11,6 @@ public class hello{
 		int modulo = a/b;
 		System.out.print("\nDivision: " + modulo);
 		int sub= a-b;
-		System.out.print("\nSubstraction: " + sub);			
+		System.out.print("\n1234Substraction: " + sub);			
 	}
 }
