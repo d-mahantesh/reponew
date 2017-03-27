@@ -3,3 +3,5 @@ Numbers has several types to represent the numbers. Generally we split numbers i
 Integers:
 Integers - like their mathematical counterpart - are numbers without a decimal component,(...,-3,-2,-1,0,1,2...) Unlike the base-10 decimal system
 we use to represent numbers, computers use base-2 binary system
+
+Go Integer Types: uint8, uint16, uint32, uint64, int8, int16, int32, int64. 8,16,32,64 tell us how many bits, uint is unsigned integer and int is signed integer
