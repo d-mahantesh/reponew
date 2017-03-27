@@ -1,0 +1,5 @@
+Numbers has several types to represent the numbers. Generally we split numbers into different kinds: Integers and Floating-point numbers
+
+Integers:
+Integers - like their mathematical counterpart - are numbers without a decimal component,(...,-3,-2,-1,0,1,2...) Unlike the base-10 decimal system
+we use to represent numbers, computers use base-2 binary system
